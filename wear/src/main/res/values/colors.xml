@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="start_button_normal">#FF1AC414</color>
+    <color name="start_button_pressed">#FF1C8C14</color>
+    <color name="exit_button_normal">#FFB51218</color>
+    <color name="exit_button_pressed">#FF851C1E</color>
+    <color name="blue_circle">#FF2B7CFF</color>
+    <color name="lightblue">#FF96BFFF</color>
+</resources>
